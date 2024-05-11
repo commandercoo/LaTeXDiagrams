@@ -1,0 +1,4 @@
+title: Divergence
+tags:
+  - math
+description: Plot of $-\ln(1-z)$ which diverges at $z = 1$.
