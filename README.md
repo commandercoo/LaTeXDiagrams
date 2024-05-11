@@ -24,25 +24,4 @@
      
 ## Tikz2
 
-| &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
-| :----------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: |
-|                                      [`autoencoder`](Tikz2/assets/autoencoder/autoencoder.tex)                                      |                                           [`aviary`](Tikz2/assets/aviary/aviary.tex)                                           |
-|                                       ![`autoencoder.png`](Tikz2/assets/autoencoder/autoencoder.png)                                       |                                              ![`aviary.png`](Tikz2/assets/aviary/aviary.png)                                               |
-|                               [`basis-plus-lattice`](Tikz2/assets/basis-plus-lattice/basis-plus-lattice.tex)                               |                                     [`bloch-sphere`](Tikz2/assets/bloch-sphere/bloch-sphere.tex)                                     |
-|                            ![`basis-plus-lattice.png`](Tikz2/assets/basis-plus-lattice/basis-plus-lattice.png)                             |                                     ![`bloch-sphere.png`](Tikz2/assets/bloch-sphere/bloch-sphere.png)                                      |
-|                    [`bose-einstein-distribution-3d`](Tikz2/assets/bose-einstein-distribution-3d/bose-einstein-distribution-3d.tex)                    |                       [`bose-einstein-distribution`](Tikz2/assets/bose-einstein-distribution/bose-einstein-distribution.tex)                       |
-|            ![`bose-einstein-distribution-3d.png`](Tikz2/assets/bose-einstein-distribution-3d/bose-einstein-distribution-3d.png)            |                ![`bose-einstein-distribution.png`](Tikz2/assets/bose-einstein-distribution/bose-einstein-distribution.png)                 |
-|                                 [`branch-and-bound`](Tikz2/assets/branch-and-bound/branch-and-bound.tex)                                 |                                    [`branch-cuts-1`](Tikz2/assets/branch-cuts-1/branch-cuts-1.tex)                                    |
-|                               ![`branch-and-bound.png`](Tikz2/assets/branch-and-bound/branch-and-bound.png)                                |                                    ![`branch-cuts-1.png`](Tikz2/assets/branch-cuts-1/branch-cuts-1.png)                                    |
-|                                    [`branch-cuts-2`](Tikz2/assets/branch-cuts-2/branch-cuts-2.tex)                                    |                              [`change-of-variables`](Tikz2/assets/change-of-variables/change-of-variables.tex)                              |
-|                                    ![`branch-cuts-2.png`](Tikz2/assets/branch-cuts-2/branch-cuts-2.png)                                    |                           ![`change-of-variables.png`](Tikz2/assets/change-of-variables/change-of-variables.png)                           |
-|                         [`closed-string-topologies`](Tikz2/assets/closed-string-topologies/closed-string-topologies.tex)                         |                            [`complex-sign-function`](Tikz2/assets/complex-sign-function/complex-sign-function.tex)                            |
-|                   ![`closed-string-topologies.png`](Tikz2/assets/closed-string-topologies/closed-string-topologies.png)                    |                        ![`complex-sign-function.png`](Tikz2/assets/complex-sign-function/complex-sign-function.png)                        |
-|                                [`concave-functions`](Tikz2/assets/concave-functions/concave-functions.tex)                                |                                           [`conv2d`](Tikz2/assets/conv2d/conv2d.tex)                                           |
-|                              ![`concave-functions.png`](Tikz2/assets/concave-functions/concave-functions.png)                              |                                              ![`conv2d.png`](Tikz2/assets/conv2d/conv2d.png)                                               |
-|                                 [`convex-functions`](Tikz2/assets/convex-functions/convex-functions.tex)                                 |                             [`critical-temperature`](Tikz2/assets/critical-temperature/critical-temperature.tex)                             |
-|                               ![`convex-functions.png`](Tikz2/assets/convex-functions/convex-functions.png)                                |                         ![`critical-temperature.png`](Tikz2/assets/critical-temperature/critical-temperature.png)                          |
-|                                [`cylinder-to-plane`](Tikz2/assets/cylinder-to-plane/cylinder-to-plane.tex)                                |                                 [`detailed-balance`](Tikz2/assets/detailed-b
-
-##Tikz3
-
+## Tikz3
