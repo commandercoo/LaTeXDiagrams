@@ -3,16 +3,13 @@ import shutil
 
 print("Current Working Directory:", os.getcwd())
 
-# Set the directories
 src_dir = 'Tikz3/Merging/srccopy'
 out_dir = 'Tikz3/Merging/outcopy'
 root_dir = 'Tikz3/Merging/combined'
 
-# Create the root directory if it does not exist
 if not os.path.exists(root_dir):
     os.makedirs(root_dir)
 
-# Get list of files in the src and out directories
 src_files = {f for f in os.listdir(src_dir) if f.endswith('.tex')}
 out_files = {f for f in os.listdir(out_dir) if f.endswith('.png')}
 
