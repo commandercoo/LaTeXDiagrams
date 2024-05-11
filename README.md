@@ -22,8 +22,6 @@
 | [**`oblique.tex`**](Tikz1/data/oblique/oblique.tex)           |                                                               |
 | ![oblique](Tikz1/data/oblique/oblique.jpg)                    |                                                               |
      
-
-
 ## Tikz2
 
 | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
@@ -46,5 +44,5 @@
 |                               ![`convex-functions.png`](Tikz2/assets/convex-functions/convex-functions.png)                                |                         ![`critical-temperature.png`](Tikz2/assets/critical-temperature/critical-temperature.png)                          |
 |                                [`cylinder-to-plane`](Tikz2/assets/cylinder-to-plane/cylinder-to-plane.tex)                                |                                 [`detailed-balance`](Tikz2/assets/detailed-b
 
-Tikz3
+##Tikz3
 
