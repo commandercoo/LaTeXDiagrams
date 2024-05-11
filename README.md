@@ -1,0 +1,1 @@
+LaTeX Diagrams aggregated
