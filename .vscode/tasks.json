@@ -1,0 +1,37 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "java (build)",
+			"paths": [
+				"${workspace}"
+			],
+			"isFullBuild": true,
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"problemMatcher": [],
+			"label": "java (build): Build Workspace",
+			"detail": "$(tools) Build all the Java projects in workspace."
+		},
+		{
+            "label": "Convert PDF to PNG",
+            "type": "shell",
+            "command": "magick",
+            "args": [
+                "convert",
+                "${file}",  // Uses the currently active file
+                "${fileDirname}/${fileBasenameNoExtension}.png"  // Saves the PNG in the same directory
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "presentation": {
+                "reveal": "always",
+                "panel": "new"
+            }
+        }
+	]
+}
