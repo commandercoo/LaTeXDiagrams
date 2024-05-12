@@ -1,6 +1,3 @@
-## Tikz Diagram Repository
-
-Whole buncha LaTeX Tikz diagrams I found and put together for future references.
 
 ## Tikz1
 
