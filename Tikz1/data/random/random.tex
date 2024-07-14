@@ -20,7 +20,9 @@
 %%%%%%%%%%%%%%
 \begin{tikzpicture}
 	\draw[thick,draw=gray2] (0,0) circle (2cm);
+	\draw[thick, draw=gray2] (0,0) -- (2,0) arc[start angle=0, end angle=-270, radius=2cm] -- cycle;
 	\draw[thick] (0,0) rectangle (2,2);
+	% \fill (0,0) circle (2pt);
 	\newcommand{\points}{
 		\foreach \x in {1,...,100}{
 			\pgfmathrandominteger{\r}{3}{55}
